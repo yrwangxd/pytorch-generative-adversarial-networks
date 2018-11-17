@@ -128,3 +128,6 @@ for epoch in range(num_epochs):
                                                             extract(g_error)[0],
                                                             stats(extract(d_real_data)),
                                                             stats(extract(d_fake_data))))
+
+        
+        
